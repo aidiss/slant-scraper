@@ -5,9 +5,9 @@ Scrapes info from www.slant.co
 Only for educational purposes.
 Use at own risk, it might violate Slant policies.
 
--[x] Versus. A comparison of two techs.
--[ ] Options. A detailed description of a particular option.
--[ ] Topics. A comparison of different topics.
+- [x] Versus. A comparison of two techs.
+- [ ] Options. A detailed description of a particular option.
+- [ ] Topics. A comparison of different topics.
 
 # Dependencies
 Install: 
