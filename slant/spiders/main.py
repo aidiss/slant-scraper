@@ -4,7 +4,7 @@ from scrapy.spiders import CrawlSpider, Rule
 from scrapy.linkextractors import LinkExtractor
 
 class MainSpider(CrawlSpider):
-    name = 'main'
+    name = 'crawler'
     allowed_domains = ['slant.co']
     start_urls = ['https://www.slant.co/options/110']
 
