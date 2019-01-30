@@ -8,4 +8,6 @@
 
 class SlantPipeline(object):
     def process_item(self, item, spider):
+        item['agree'] = int(item['agree'])
+        item['disagree'] = int(item['disagree'])
         return item
